@@ -10,9 +10,8 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/JavaVsJS.png">
 
-*JavaScript: Style with Substance*
 
   JavaScript in modern times is often looked down upon as an older and more outdated language. Oftentimes, people recommend newer languages which provide more features and interesting ideas. However,  in the same way C is still used despite many alternatives being created, JavaScript stays relevant by mixing style with substance to create a solid language with more flexibility than older languages while also having the simplicity to be easily started without the need for any outside resources.
 
