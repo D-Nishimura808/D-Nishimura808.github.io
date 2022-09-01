@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Queen-Of-Hearts.png
 title: "Card Game"
 date: 2022
 published: true
