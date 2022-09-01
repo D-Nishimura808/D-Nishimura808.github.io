@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Queen-Of-Hearts.png
+image: img/Queen-Of-Hearts.jpg
 title: "Card Game"
 date: 2022
 published: true
