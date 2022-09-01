@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/keyclublogo
 title: "Key Club"
 date: 2017
 published: true
