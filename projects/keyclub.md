@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/keyclublogo
+image: img/keyclublogo.png
 title: "Key Club"
 date: 2017
 published: true
