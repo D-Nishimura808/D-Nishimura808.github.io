@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JavaVsJS.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow-resized.png">
 
 ## "There are no Dumb Questions"
   Oftentimes, throughout middle and highschool, students are told the mantra: “There are no dumb questions”. This is an effective way to get students to ask questions more frequently and without the fear of judgment however, this sentiment is wrong. I have been asked countless times by friends and family questions that could be solved with a five second google search, questions I could not possibly know the answer to, or questions so vague you have to clarify what they mean. These are all stupid questions not because of the content of the questions, but because of the lack of thought from the person asking. This mentality can be found on any online forum but is found most prominently on places like Stack Overflow and other programming forums.
