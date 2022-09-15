@@ -12,7 +12,7 @@ labels:
 summary: The MATE ROV (Remote Operated Vehicle) competition is an underwater robotics competition in which teams act as “start-up” companies both designing and building an ROV while also creating technical and financial reports along with an engineering presentation. During my time competing in MATE, I learned many technical skills such as 3D printing, soldering, and coding along with skills such as public speaking and presenting.
 ---
 
-<img class="img-fluid" src="../img/PoolComp.JPG">
+<img width="600px" src="../img/PoolComp.JPG">
 
 
   In 2017 my high school robotics team competed in the yearly MATE competition. The MATE ROV  Competition is an underwater robotics competition where teams compete to complete a series of tasks using an ROV (Remote Operated Vehicle). The MATE competition isn’t just about creating a robot but about the whole process of designing and building the robot. To this end, the competition is also judged on a technical presentation, technical report, budget report, and marketing poster which outlines all the aspects of the ROV. The idea behind this is to push ideas of entrepreneurship and innovation beyond just the engineering needed to create an ROV.
@@ -26,5 +26,5 @@ Beyond just building an ROV, we spent lots of time practicing both our writing a
 
   <img width="400px" src="../img/FinalROV.CR2.jpg">
 
-More about the MATE ROV Competition can be found at the MATE ROV website.
+More about the MATE ROV Competition can be found at the [MATE ROV website](https://materovcompetition.org/).
   
