@@ -12,9 +12,7 @@ labels:
 summary: "Key Club is a nationally recognized student led organization dedicated to helping out the local community while also providing oppurtunity for character building and the development of leadership skills. During my time in high school, I started our school's first key club where I served as the president building both the club and myself along the way."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png">
-</div>
+<img class ="image-fluid" src="../img/KeyClubLongLogo.png">
 
   In sophomore year of high school, I founded our school's first Key Club. Key Club is a nationally recognized student-led organization dedicated to helping out the local community while also providing opportunity for character building and the development of leadership skills. During my time serving as both president and vice president, I learned many new skills and lessons which still shape who I am today.
    
