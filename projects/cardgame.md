@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - Programming
-summary: "During the course of my ICS 211 class, we were tasked with implementing a version of the card game War using Java."
+summary: "During the course of my ICS 211 class, we were tasked with implementing a version of the card game War using Java. Through this project, along with various other assignments, I began to understand the importance of understanding concepts as opposed to being able to use concepts."
 ---
 
 
