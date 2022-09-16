@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
     { "name": "Coding" },
     { "name": "Robotics" },
-    { "name": "Marching Band" }
+    { "name": "Marching Band" },
+    { "name": "UI Design"}
   ],
   "skills": [
     {
