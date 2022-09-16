@@ -2,20 +2,15 @@
 layout: project
 type: project
 image: img/Queen-Of-Hearts.jpg
-title: "Card Game"
+title: "Card Game Project"
 date: 2022
 published: true
 labels:
   - Java
   - Programming
-summary: "I developed a Java program to run the Game of War."
+summary: "During the course of my ICS 211 class, we were tasked with implementing a version of the card game War using Java."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 For my ICS 211 class, one of the homework assignments to write the code for a card game. The card game being made was for the card game "War" with the main purpose of the assignment being to test out knowledge of stacks.
 
@@ -41,4 +36,8 @@ return finalstack;
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+The above code is a method used within the program to combine the two stacks of cards in our game. The bottom of the stack stays the same but when combining the top of the stack with the bottom, we have to take into account the nature of stacks to get the right output. Since stack is a FILO datastructure, this means when returning all items from the stack, they will be returned from the most recent element added to the oldest element added. Thus if we only ran the first while loop, all the items would be returned in the opposite order that we need. To prevent this, we use another stack to act as an intermediary stack to flip the elements. The first while loop, passes all the items into another stack however, these items are passed in backwards. Then we empty this new stack, into our final stack so our values will be passed in the correct order. We then return the final stack.
+
+The code above and the project at large goes to show that being able to use a dataype isn't enough. To be an effective programmer, you need to understand why a datatype works the way it does so it can be implemented in the correct way. While this is a small part of a bigger project, these sorts of assignments made me realize the importance of knowing why things works as opposed to how they are used. Knowing the correct syntax isn't enough, understanding how any computer science concept works is a vital component of being an effective programmer.
+
+
