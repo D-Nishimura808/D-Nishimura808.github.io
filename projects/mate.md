@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BWMateCompLogoResized.png
+image: img/MATECenterResized.png
 title: "MATE ROV Competition"
 date: 2016-2017
 published: true
