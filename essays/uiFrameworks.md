@@ -11,7 +11,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/CSEResized.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/margins.png">
 
   When making a website, the most time is usually spent on setting up CSS to arrange the elements. To solve this, UI frameworks such as Bootstrap were created to simplify the process of creating websites. However, the question still remains, does Bootstrap actually simplify HTML styling? Without a doubt, Bootstrap can significantly decrease the amount of time it takes to create a website but, when you venture outside of the Bootstrap presets and classes, conflicts often arise and these conflicts can take more time than using HTML itself. 
   
