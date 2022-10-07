@@ -1,18 +1,3 @@
-
----
-layout: essay
-type: essay
-title: "The Point of Software Engineering"
-# All dates must be YYYY-MM-DD format!
-date: 2022-09-04
-published: true
-labels:
-  - Software Engineering
-  - Programming
----
-
-<img width="200px" class="rounded float-start pe-4" src="../img/CSEResized.jpg">
-
 ---
 layout: essay
 type: essay
@@ -22,7 +7,8 @@ date: 2022-10-06
 published: true
 labels:
   - Software Engineering
-  - Programming
+  - UI Frameworks
+  - Bootstrap
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/CSEResized.jpg">
