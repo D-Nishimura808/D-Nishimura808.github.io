@@ -12,6 +12,7 @@ labels:
   - Web Deveopment
 summary: "A virtual campus tour made to streamline the UH Manoa experience for prospective students"
 ---
+<img width="600px" src="../img/virtual-campus-tour-logo.png">
 
 # Why Virtual Campus Tours
 
@@ -19,7 +20,7 @@ The creation of a virtual campus tour came from a single problem. The ease of in
 
 In this project, we start by focusing on the ICS department at UH Manoa, trying to highlight the aspects that most incoming freshmen would be hard pressed to find on the Manoa website. Due to the existence of the Manoa website, our site provides links back to the main site when more information can be provided. While this project only provides information on the ICS department at the moment, in the future it is our plan to incorporate more departments into the tour to allow more prospective students to explore what makes UH Manoa an amazing campus
 	
-<img width="600px" src="../img/General Page.JPG">
+<img width="600px" src="../img/GeneralPage.png">
 
 # My Contribution to the Project
 
