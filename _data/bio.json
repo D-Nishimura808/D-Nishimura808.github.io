@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Derek Nishimura Jr",
+    "label": "Student",
+    "picture": "https://github.com/D-Nishimura808.png",
+    "email": "dereknis@hawaii.edu",
+    "phone": "808-753-5566",
+    "website": "https://D-Nishimura808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "45-666 Lohiehu Pl": "", "postalCode": "96744", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "D-Nishimura808", "url": "http://github.com/D-Nishimura808" },
+      { "network": "linkedin", "username": "Derek Nishimura Jr", "url": "https://www.linkedin.com/in/derek-nishimura-jr-17b40224a?trk=people-guest_people_search-card" }
+    ]
+  },
+  "interests": [
+    { "name": "Coding" },
+    { "name": "Robotics" },
+    { "name": "Marching Band" },
+    { "name": "UI Design"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-13",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "King Intermediate School",
+      "position": "Assistant Teacher",
+      "website": "",
+      "startDate": "2022-06-06",
+      "endDate": "2022-07-01",
+      "summary": "Assistant teacher for King Intermediate summer band program",
+      "highlights": [
+        "Supervise students while in class",
+        "Manage a small group of students while teaching the fundamentals of music theory",
+        "Teach students how to properly play a concert band instrument"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Male Scholar Athelete of the Year",
+      "date": "2019-2020",
+      "awarder": "Kailua High School",
+      "summary": "Award given to the male student with the most sports played while also maintaining a high (4.0) GPA throughout the year."
+    },
+    {
+      "title": "Outstanding Student Leader Award",
+      "date": "2019-2020",
+      "awarder": "Kailua High School",
+      "summary": "Award given to the student holding multiple leadership roles in clubs around campus and held in high regard by faculty."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
