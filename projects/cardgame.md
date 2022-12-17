@@ -4,7 +4,7 @@ type: project
 image: img/Queen-Of-Hearts.jpg
 title: "Card Game Project"
 date: 2022
-published: true
+published: false
 labels:
   - Java
   - Programming
