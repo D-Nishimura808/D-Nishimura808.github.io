@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: imgs/UHM.png
 title: "Virtual Campus Tour"
 date: 2022
 published: true
@@ -18,6 +18,8 @@ summary: "A virtual campus tour made to streamline the UH Manoa experience for p
 The creation of a virtual campus tour came from a single problem. The ease of information access on the Manoa website. While a lot of information can be found on the University of Hawaii website, the main problem comes when trying to find specific information. Our website exists to compile all important information for an incoming student while giving them the freedom to explore what opportunities are available at the UH Manoa campus.
 
 	In this project, we start by focusing on the ICS department at UH Manoa, trying to highlight the aspects that most incoming freshmen would be hard pressed to find on the Manoa website. Due to the existence of the Manoa website, our site provides links back to the main site when more information can be provided. While this project only provides information on the ICS department at the moment, in the future it is our plan to incorporate more departments into the tour to allow more prospective students to explore what makes UH Manoa an amazing campus
+	
+<img width="600px" src="../img/General Page.JPG">
 
 # My Contribution to the Project
 
