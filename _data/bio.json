@@ -16,7 +16,6 @@
   "interests": [
     { "name": "Coding" },
     { "name": "Robotics" },
-    { "name": "Marching Band" },
     { "name": "UI Design"}
   ],
   "skills": [
@@ -26,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Linux", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Linux", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -53,7 +52,19 @@
         "Manage a small group of students while teaching the fundamentals of music theory",
         "Teach students how to properly play a concert band instrument"
       ]
-    }
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Information Technology Student Assistant",
+      "website": "",
+      "startDate": "2022-12-21",
+      "endDate": "Current",
+      "summary": "Help Desk Consultant at the ITS Help Desk",
+      "highlights": [
+        "Answering Phone and Email Requests",
+        "Troubleshoot user software and hardware issues",
+        "Monitoring system and network operations"
+    } 
   ],
   "awards": [
     {
